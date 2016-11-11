@@ -1,15 +1,33 @@
-==> For Support Related Rapidleech Visit - www.rapidleech.com 
+**uTorrent Stream** is a a self-hosted remote torrent client, written in Go (golang). You start torrents remotely, which are downloaded as sets of files on the local disk of the server, which are then retrievable or streamable via HTTP.
 
-==> Last Update - October,2015 
+**Visit utorrentstream.com to learn installing App**
+<a href="https://utorrentstream.com">Website: uTorrentStream.com</a>
+**Herkoku**
 
-==> Latest Version - Rev.431 
+Click this button to...
 
-==> Active Contributors - 1
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-==> Script Information
-Rapid Leech is a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others. The famous Rapidleech script transfers files from Other Filehosting Servers To Your Server via your fast servers connection speed and dumps the file on your server. You may then download these files from your server anytime later.
 
-Rapidleech script has being used by more than 5 million users worldwide and has being installed on more than 2000 servers.
-For webmasters, if you have not tried the script before, download and install now and you will see how convenient the script can be. You may also generate income by offering your Rapidleech sites to end-users and earn income from advertising programs. Some webmasters are earning hundreds per day on the advertising program(Google and yahoo Ads) from their Rapidleech sites. Script installation is extremely easy and does not require any database.
+#### MIT License
 
-For end-users, you may search on our forum for readily available installed scripts on servers worldwide. You may use them but please support these sites by visiting their sponsors or donate in order to keep these sites available.
+Copyright © 2016
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
