@@ -2,4 +2,10 @@
 	"name": "uTorrent Stream",
 	"website": "https://utorrentstream.com",
 	"repository": "https://utorrentstream.com",
+	"env": {
+		"TITLE": {
+			"description": "Optionally set the title of this instance (defaults to 'uTorrent Stream')",
+			"required": false
+		}
+	}
 }
