@@ -1,15 +1,9 @@
 {
-	"name": "uTorrent Stream",
+	"name": "uTorrent Stream Storage",
 	"website": "https://utorrentstream.com",
 	"repository": "https://github.com/factoogle/utorrent-stream-storage",
 	"env": {
-		"TITLE": {
-			"description": "Optionally set the title of this instance (defaults to 'uTorrent Stream')",
-			"required": false
-		},
-		"AUTH": {
-			"description": "Optional HTTP authentication in the form user:password",
-			"required": false
+		
 		}
 	}
 }
