@@ -431,13 +431,5 @@ function resetProgress() {
 	</td></tr>
 </table>
 </center>
-<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Homepage 728*90 Banner -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-3968645922999785"
-     data-ad-slot="8604217753"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></center>
+<center></center>
 <?php include(TEMPLATE_DIR.'footer.php'); ?>
