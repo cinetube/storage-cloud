@@ -10,7 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link title="Rapidleech Style" href="templates/plugmod/styles/rl_style_pm.css" rel="stylesheet" type="text/css" />
 
-<title>uTorrent Stream</title>
+<title>Cloud Save</title>
 <script type="text/javascript">
 /* <![CDATA[ */
 var php_js_strings = [];
@@ -29,5 +29,5 @@ if ($GLOBALS['options']['flist_sort']) { echo '<script type="text/javascript" sr
 </head>
 
 <body>
-<center><a href="https://utorrentstream.com"> <img src="templates/plugmod/images/logo_pm.gif" alt="uTorrent Stream" border="0" /></a></center><br />
+<center><a href=""> <img src="templates/plugmod/images/logo_pm.gif" alt="Cloud Save" border="0" /></a></center><br />
 <center></center>
